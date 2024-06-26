@@ -22,8 +22,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Solution URL]()
-- Live Site URL: [Live site URL]()
+- Solution URL: [Solution URL](https://www.frontendmentor.io/solutions/responsive-qr-code-component-using-css-PPB4ezwu3w)
+- Live Site URL: [Live site URL](https://amrgobran.github.io/QR-code-component/)
 
 ## My process
 
